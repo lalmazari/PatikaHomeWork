@@ -16,3 +16,5 @@
     Created a website with most used HTML tags.
 
 **CSS**
+1. [Music Shop](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/CSS/1.Music%20Shop)<br>
+    Created a Music Shop website with basic CSS and HTML tags.
