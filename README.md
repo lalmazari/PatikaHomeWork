@@ -13,6 +13,6 @@
 3. [Basic Cocostar Cake Recipe Web Page](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/HTML/3.Cocostar%20Cake%20Recipe)<br>
     Created a Basic Cocostar Cake Recipe website.
 4. [Chapter Practice](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/HTML/4.Chapter%20Practice)<br>
-    A website with most used HTML tags.
+    Created a website with most used HTML tags.
 
 **CSS**
