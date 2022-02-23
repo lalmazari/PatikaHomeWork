@@ -17,4 +17,6 @@
 
 **CSS**
 1. [Music Shop](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/CSS/1.Music%20Shop)<br>
-    Created a Music Shop website with basic CSS and HTML tags.
+    Created a Music Shop website with basic CSS and HTML.
+2. [Google 1998](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/CSS/2.Google%201998)<br>
+    Created a Google 1998 web page with basic CSS and HTML.
