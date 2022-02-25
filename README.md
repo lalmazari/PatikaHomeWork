@@ -32,7 +32,7 @@
     LinkedIn Web Clone with Bootstrap, CSS and HTML.
 
 **Data Structure And Algorithms**
-1. [Insertion Sort Project]()<br>
+1. [Insertion Sort Project](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend/Basic%20Frontend/Data%20Structure%20And%20Algorithms/1.Insertion%20Sort)<br>
     Simple Insertion Sort Project.
 2. [Merge Sort Project]()<br>
     Simple Merge Sort Project.
