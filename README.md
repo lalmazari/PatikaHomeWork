@@ -29,4 +29,12 @@
 2. [Instagram Web Clone]()<br>
     Instagram Web Clone with Bootstrap, CSS and HTML. 
 3. [LinkedIn Web Clone]()<br>
-    LinkedIn Web Clone with Bootstrap, CSS and HTML. 
+    LinkedIn Web Clone with Bootstrap, CSS and HTML.
+
+**Data Structure And Algorithms**
+1. [Insertion Sort Project]()<br>
+    Simple Insertion Sort Project.
+2. [Merge Sort Project]()<br>
+    Simple Merge Sort Project.
+3. [Binary Search Tree Project]()<br>
+    Simple Binary Search Tree Project.
