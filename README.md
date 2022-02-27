@@ -2,7 +2,7 @@
 
 **My all Patika.dev  home work repository.**
 
-## Frontend
+## Frontend Web Development
 **Basic Frontend**
 
 **HTML**
