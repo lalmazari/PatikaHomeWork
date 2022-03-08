@@ -41,5 +41,5 @@
     Simple Binary Search Tree Project.
 
 **JavaScript** 
-1. [Simple JavaScript Clock Homework]()<br>
+1. [Simple JavaScript Clock Homework](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/JavaScript/1.JavaScriptClock)<br>
     It asks your Name then displays your Name and current Hour and Day in HTML page.
