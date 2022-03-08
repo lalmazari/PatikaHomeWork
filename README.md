@@ -3,7 +3,8 @@
 **My all Patika.dev  home work repository.**
 
 ## Frontend Web Development
-**Basic Frontend**
+
+### Basic Frontend
 
 **HTML**
 1. [Basic Web Page](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/HTML/1.Basic%20Web%20Page)<br>
@@ -31,10 +32,14 @@
 3. [Medium Clone](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/Bootstrap/3.Medium%20Clone)<br>
     Medium Clone with Bootstrap, CSS and HTML. 
 
-**Data Structure And Algorithms**
+**Data Structure And Algorithms**                     
 1. [Insertion Sort Project](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/Data%20Structure%20And%20Algorithms/1.Insertion%20Sort)<br>
     Simple Insertion Sort Project.
 2. [Merge Sort Project](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/Data%20Structure%20And%20Algorithms/2.Merge%20Sort)<br>
     Simple Merge Sort Project.
 3. [Binary Search Tree Project](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/Data%20Structure%20And%20Algorithms/3.Binary%20Search%20Tree)<br>
     Simple Binary Search Tree Project.
+
+**JavaScript** 
+1. [Simple JavaScript Clock Homework]()<br>
+    It asks your Name then displays your Name and current Hour and Day in HTML page.
