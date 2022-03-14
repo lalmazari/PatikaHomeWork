@@ -49,5 +49,5 @@
 ### Intermediate Frontend
 
 **React**
-1. [Fetch Fake Data]()<br>
+1. [Fetch Fake Data](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Intermediate%20Web%20Development/React/1.FetchFakeData)<br>
     Fetch Fake data with axios. 
