@@ -4,7 +4,10 @@
 
 ## Frontend Web Development
 
-### Basic Frontend
+[Basic Frontend Web](#Basic-Frontend-Web-Development) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Intermediate Frontend Web](#Intermediate-Frontend-Web-Development) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Advanced Frontend Web](#Advanced-Frontend-Web-Development)
+<hr>
+
+### Basic Frontend Web Development
 
 **HTML**
 1. [Basic Web Page](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/HTML/1.Basic%20Web%20Page)<br>
@@ -46,8 +49,10 @@
 1. [Simple JavaScript Clock Homework](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Basic%20Frontend%20Web%20Development/JavaScript/1.JavaScriptClock)<br>
     It asks your Name then displays your Name and current Hour and Day in HTML page.
 
-### Intermediate Frontend
+### Intermediate Frontend Web Development
 
 **React**
-1. [Fetch Fake Data](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Intermediate%20Web%20Development/React/1.FetchFakeData)<br>
-    Fetch Fake data with axios. 
+1. [Fetch Fake Data](https://github.com/lalmazari/PatikaHomeWork/tree/main/Frontend%20Web%20Development/Intermediate%20Frontend%20Web%20Development/React/1.FetchFakeData)<br>
+    Fetch Fake data with axios.
+
+### Advanced Frontend Web Development
