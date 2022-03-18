@@ -1,6 +1,6 @@
-# Asian'sKitchenMenu
+# AsiansKitchen'sMenu
 
-**Asian's Kitchen Menu**
-Asian's Kitchen Menu web page created with JavaScript, CSS and HTML.
+**Asian Kitchen's Menu**\
+Asian Kitchen's Menu web page created with JavaScript, CSS and HTML.
 
 ![Asian's Kitchen Menu](screencapture.png)
