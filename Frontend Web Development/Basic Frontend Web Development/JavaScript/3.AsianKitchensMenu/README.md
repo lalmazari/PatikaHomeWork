@@ -3,4 +3,4 @@
 **Asian Kitchen's Menu**\
 Asian Kitchen's Menu web page created with JavaScript, CSS and HTML.
 
-![Asian's Kitchen Menu](screencapture.png)
+![Asian Kitchen's Menu](screencapture.png)
