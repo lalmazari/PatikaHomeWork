@@ -7,7 +7,7 @@ const Post = require("./models/Post");
 const app = express();
 
 //Connect to Database
-mongoose.connect('mongodb://localhost:27017/cleanblog-db', {
+mongoose.connect("mongodb://localhost:27017/cleanblog-db", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
@@ -21,12 +21,20 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //Route
-app.get("/", async(req, res) => {
-  const posts = await Post.find({})
+app.get("/", async (req, res) => {
+  const posts = await Post.find({});
   res.render("index", {
-    posts
+    posts,
   });
 });
+
+app.get("/posts/:id", async (req, res) => {
+  const post = await Post.findById(req.params.id);
+  res.render("post", {
+    post,
+  });
+});
+
 app.get("/about", (req, res) => {
   res.render("about");
 });
@@ -34,8 +42,8 @@ app.get("/add_post", (req, res) => {
   res.render("add_post");
 });
 
-app.post("/posts", async(req, res) => {
-  await Post.create(req.body)
+app.post("/posts", async (req, res) => {
+  await Post.create(req.body);
   res.redirect("/");
 });
 
